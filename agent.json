@@ -1,0 +1,49 @@
+{
+  "description": "Alpha-Mine v.1.0 by Mohamed Mostapha",
+  "language": "en",
+  "shortDescription": "Perform a web search",
+  "examples": "User: Google a recipe for tomato soup.\nUser: Find Metropolitan Museum on Wikipedia.\nUser: Look up Monty Python.\nUser: Google how to cook dinner.\nUser: Find Lady Gaga\u0027s husband on the Internet.",
+  "linkToDocs": "",
+  "activeAssistantAgents": [],
+  "disableInteractionLogs": false,
+  "disableStackdriverLogs": true,
+  "googleAssistant": {
+    "googleAssistantCompatible": false,
+    "project": "alpha-mine-7520c",
+    "welcomeIntentSignInRequired": false,
+    "startIntents": [],
+    "systemIntents": [],
+    "endIntentIds": [
+      "6fcd9648-9a31-4ae7-bcb5-7c3029b91bf0"
+    ],
+    "oAuthLinking": {
+      "required": false,
+      "grantType": "AUTH_CODE_GRANT"
+    },
+    "voiceType": "MALE_1",
+    "capabilities": [],
+    "protocolVersion": "V2",
+    "isDeviceAgent": false
+  },
+  "defaultTimezone": "Africa/Casablanca",
+  "webhook": {
+    "headers": {
+      "": ""
+    },
+    "available": false,
+    "useForDomains": false,
+    "cloudFunctionsEnabled": false,
+    "cloudFunctionsInitialized": false
+  },
+  "isPrivate": false,
+  "customClassifierMode": "use.instead",
+  "mlMinConfidence": 0.3,
+  "supportedLanguages": [
+    "en-au",
+    "en-ca",
+    "en-gb",
+    "en-in",
+    "en-us"
+  ],
+  "onePlatformApiVersion": "v2"
+}
