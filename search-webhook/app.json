@@ -1,0 +1,6 @@
+{
+  "name": "search-webhook",
+  "description": "Sample app to integrate the /search service with api.ai as webhook",
+
+  "keywords": ["api.ai", "natural language", "webhook", "search service"]
+}
