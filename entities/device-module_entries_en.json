@@ -1,0 +1,123 @@
+[
+  {
+    "value": "3G",
+    "synonyms": [
+      "3G"
+    ]
+  },
+  {
+    "value": "flightmode",
+    "synonyms": [
+      "flightmode",
+      "airplane mode",
+      "flight mode"
+    ]
+  },
+  {
+    "value": "NFC",
+    "synonyms": [
+      "NFC"
+    ]
+  },
+  {
+    "value": "power saving",
+    "synonyms": [
+      "power saving",
+      "low power mode"
+    ]
+  },
+  {
+    "value": "WLAN",
+    "synonyms": [
+      "WLAN"
+    ]
+  },
+  {
+    "value": "Hands-free mode",
+    "synonyms": [
+      "Hands-free mode"
+    ]
+  },
+  {
+    "value": "bluetooth",
+    "synonyms": [
+      "bluetooth"
+    ]
+  },
+  {
+    "value": "silent mode",
+    "synonyms": [
+      "silent"
+    ]
+  },
+  {
+    "value": "wifi",
+    "synonyms": [
+      "wifi",
+      "Wi-Fi",
+      "wi fi"
+    ]
+  },
+  {
+    "value": "gps",
+    "synonyms": [
+      "gps",
+      "location services"
+    ]
+  },
+  {
+    "value": "vibration",
+    "synonyms": [
+      "vibration"
+    ]
+  },
+  {
+    "value": "LTE",
+    "synonyms": [
+      "LTE"
+    ]
+  },
+  {
+    "value": "do not disturb",
+    "synonyms": [
+      "do not disturb"
+    ]
+  },
+  {
+    "value": "4g",
+    "synonyms": [
+      "4g"
+    ]
+  },
+  {
+    "value": "Night Mode",
+    "synonyms": [
+      "Night Mode"
+    ]
+  },
+  {
+    "value": "VoiceOver",
+    "synonyms": [
+      "VoiceOver",
+      "Voice Over"
+    ]
+  },
+  {
+    "value": "reading mode",
+    "synonyms": [
+      "reading mode"
+    ]
+  },
+  {
+    "value": "volume",
+    "synonyms": [
+      "volume"
+    ]
+  },
+  {
+    "value": "mobile",
+    "synonyms": [
+      "mobile"
+    ]
+  }
+]

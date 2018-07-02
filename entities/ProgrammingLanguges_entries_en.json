@@ -1,0 +1,40 @@
+[
+  {
+    "value": "Java",
+    "synonyms": [
+      "Java",
+      "java"
+    ]
+  },
+  {
+    "value": "Python",
+    "synonyms": [
+      "Python",
+      "python",
+      "py"
+    ]
+  },
+  {
+    "value": "C++",
+    "synonyms": [
+      "C++",
+      "C",
+      "cpp"
+    ]
+  },
+  {
+    "value": "C#",
+    "synonyms": [
+      "C#",
+      "Csharp"
+    ]
+  },
+  {
+    "value": "JavaScript",
+    "synonyms": [
+      "JavaScript",
+      "javascript",
+      "js"
+    ]
+  }
+]
