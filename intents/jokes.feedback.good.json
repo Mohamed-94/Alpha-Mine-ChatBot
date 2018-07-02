@@ -1,0 +1,49 @@
+{
+  "id": "e656681b-5221-4e38-bdea-9ce0be48a3ed",
+  "parentId": "f56b1192-36b0-47a3-b793-61cb5573bb4b",
+  "rootParentId": "f56b1192-36b0-47a3-b793-61cb5573bb4b",
+  "name": "jokes.feedback.good",
+  "auto": true,
+  "contexts": [
+    "jokesget-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "jokes.feedback.good",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "More"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "I think I\u0027m pretty funny! Want to hear another?",
+            "Good, I can tell a lot more just ask!",
+            "Thanks..,Want another joke?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1529928350,
+  "fallbackIntent": false,
+  "events": []
+}

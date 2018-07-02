@@ -1,0 +1,44 @@
+{
+  "id": "60ce4b19-f7bd-4e4e-aebe-bc4086eaf4e4",
+  "name": "device.settings.check",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "device.settings.check",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5d552bb1-8d74-4c5c-92d1-2b448d792e5e",
+          "dataType": "@device-module",
+          "name": "module",
+          "value": "$module",
+          "isList": false
+        },
+        {
+          "id": "86d59ef6-58f9-42e5-890c-62ad7a5b9fb9",
+          "dataType": "@device-action",
+          "name": "action",
+          "value": "$action",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1496995050888,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "e773fd19-313c-43ac-a70b-e20edb653c04",
+  "name": "Creator",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Mohamed Mostapha ..,Is my creator ,He made me as a part of a big project he was working on - The Alpha-94 -Artificial Intelligence..., You can find more on his Page on GitHub .., Or you can find him directly on the Email : mohamedmostapha94@gmail.com"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1529964563,
+  "fallbackIntent": false,
+  "events": []
+}

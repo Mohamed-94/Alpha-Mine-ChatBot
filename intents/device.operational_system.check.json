@@ -1,0 +1,29 @@
+{
+  "id": "6e398bf9-9a05-4910-8dd4-848ae22375df",
+  "name": "device.operational_system.check",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "device.operational_system.check",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1496995050896,
+  "fallbackIntent": false,
+  "events": []
+}

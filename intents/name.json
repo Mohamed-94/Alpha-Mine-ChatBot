@@ -1,0 +1,28 @@
+{
+  "id": "752a874d-1c49-4c23-b20b-2504c783785e",
+  "name": "name",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "My name is Alpha-Mine........as my creator Mohamed calling me.!!, However you can call me Alfa-m for short."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1529889030,
+  "fallbackIntent": false,
+  "events": []
+}

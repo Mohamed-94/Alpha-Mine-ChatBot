@@ -1,0 +1,42 @@
+{
+  "id": "12add006-c345-43d0-ba53-33145bda2537",
+  "parentId": "5efd479d-c50e-4aa2-ab77-8ade6fdb2bc5",
+  "rootParentId": "5efd479d-c50e-4aa2-ab77-8ade6fdb2bc5",
+  "name": "languages - custom",
+  "auto": true,
+  "contexts": [
+    "languages-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "languages.languages-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "baec43eb-55f3-4b61-904a-d721cabef03c",
+          "required": false,
+          "dataType": "@sys.duration",
+          "name": "duration",
+          "value": "$duration",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "I can\u0027t believe you master #languages-followup.language for $duration ..you must be claver to do that!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1529894485,
+  "fallbackIntent": false,
+  "events": []
+}

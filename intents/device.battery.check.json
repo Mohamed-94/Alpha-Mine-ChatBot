@@ -1,0 +1,29 @@
+{
+  "id": "e1a4dc1d-686c-4fe0-b3a1-e47f3f2ec0f5",
+  "name": "device.battery.check",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "device.battery.check",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1496995050914,
+  "fallbackIntent": false,
+  "events": []
+}

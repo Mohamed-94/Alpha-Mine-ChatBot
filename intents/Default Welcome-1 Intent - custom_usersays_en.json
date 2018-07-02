@@ -1,0 +1,50 @@
+[
+  {
+    "id": "0aab1a47-a76f-4989-b5e6-607ee05e774a",
+    "data": [
+      {
+        "text": "how you feel?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529948301
+  },
+  {
+    "id": "e84252f5-4ea9-453d-8d60-8f6b0341c3e3",
+    "data": [
+      {
+        "text": "watsup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529948301
+  },
+  {
+    "id": "e374940b-e83c-4a37-9141-09440c6b27a9",
+    "data": [
+      {
+        "text": "how you have been?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529948301
+  },
+  {
+    "id": "e704346e-12be-4324-998f-ccd13bfa2173",
+    "data": [
+      {
+        "text": "how are you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529948301
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "id": "5d4a1473-82dc-46e9-94d9-57886157e1cd",
+  "name": "device.screen.lock",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "device.screen.lock",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1496995050876,
+  "fallbackIntent": false,
+  "events": []
+}

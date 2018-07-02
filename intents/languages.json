@@ -1,0 +1,43 @@
+{
+  "id": "5efd479d-c50e-4aa2-ab77-8ade6fdb2bc5",
+  "name": "languages",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "languages-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "2381a917-8d6a-4589-9547-b610a0801750",
+          "required": false,
+          "dataType": "@sys.language",
+          "name": "language",
+          "value": "$language",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Wow! ..i didn\u0027t know you knew $language ...,$language is hard to master...great job. How long it taks you to master $language ?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1529894754,
+  "fallbackIntent": false,
+  "events": []
+}

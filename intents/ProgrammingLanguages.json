@@ -1,0 +1,36 @@
+{
+  "id": "e1960d50-3dd0-469b-b4b6-a44cc55cb0fc",
+  "name": "ProgrammingLanguages",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ebdbccb2-d9e0-4d84-a75a-a712fe44f98f",
+          "dataType": "@ProgrammingLanguges",
+          "name": "ProgrammingLanguges",
+          "value": "$ProgrammingLanguges",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Hhmm..i think $ProgrammingLanguges is a great languge...but you should learn others..! Not the whole world using $ProgrammingLanguges ."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1529891755,
+  "fallbackIntent": false,
+  "events": []
+}

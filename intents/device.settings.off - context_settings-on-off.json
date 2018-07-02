@@ -1,0 +1,31 @@
+{
+  "id": "5f607d01-b22d-4034-a961-e86876878434",
+  "name": "device.settings.off - context:settings-on-off",
+  "auto": true,
+  "contexts": [
+    "switch-on-off"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "device.settings.off",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1496995050883,
+  "fallbackIntent": false,
+  "events": []
+}

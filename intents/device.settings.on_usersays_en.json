@@ -1,0 +1,250 @@
+[
+  {
+    "id": "eec0f94c-ffa8-4b37-ae38-1025995be50c",
+    "data": [
+      {
+        "text": "GPS",
+        "alias": "module",
+        "meta": "@device-module",
+        "userDefined": true
+      },
+      {
+        "text": " on now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8724ef12-9f4e-40da-820d-274a0f1ee7ba",
+    "data": [
+      {
+        "text": "activate ",
+        "userDefined": false
+      },
+      {
+        "text": "airplane mode",
+        "alias": "module",
+        "meta": "@device-module",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1f404696-07e0-4011-96e0-97c244498d2d",
+    "data": [
+      {
+        "text": "turn up the ",
+        "userDefined": false
+      },
+      {
+        "text": "volume",
+        "alias": "module",
+        "meta": "@device-module",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "995c676e-f966-4cde-9d9b-5d4a78bb2b1d",
+    "data": [
+      {
+        "text": "from now on ",
+        "userDefined": false
+      },
+      {
+        "text": "GPS",
+        "alias": "module",
+        "meta": "@device-module",
+        "userDefined": true
+      },
+      {
+        "text": " on",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f8a05402-91ea-43b0-aaad-6703ef322043",
+    "data": [
+      {
+        "text": "enable",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mobile data",
+        "alias": "module",
+        "meta": "@device-module",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "049a09f7-e1a9-4234-8081-da0fcc510db3",
+    "data": [
+      {
+        "text": "switch ",
+        "userDefined": false
+      },
+      {
+        "text": "airplane mode",
+        "alias": "module",
+        "meta": "@device-module",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "62f7c2c0-ecc1-47ea-ad85-cbeb16de4df0",
+    "data": [
+      {
+        "text": "put my phone ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "silent",
+        "alias": "module",
+        "meta": "@device-module",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3c7f20be-f940-4ad4-ad60-c0f4cae667fe",
+    "data": [
+      {
+        "text": "turn ",
+        "userDefined": false
+      },
+      {
+        "text": "GPS",
+        "alias": "module",
+        "meta": "@device-module",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cfad6294-cc2e-4b40-8de0-f8da2f087b17",
+    "data": [
+      {
+        "text": "connect ",
+        "userDefined": false
+      },
+      {
+        "text": "Wi-Fi",
+        "alias": "module",
+        "meta": "@device-module",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9282316b-a89e-4b64-be76-0cfc8d599643",
+    "data": [
+      {
+        "text": "vibration",
+        "alias": "module",
+        "meta": "@device-module",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "42658f01-456b-4457-95bb-aea60d18833b",
+    "data": [
+      {
+        "text": "bring ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "Bluetooth",
+        "alias": "module",
+        "meta": "@device-module",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

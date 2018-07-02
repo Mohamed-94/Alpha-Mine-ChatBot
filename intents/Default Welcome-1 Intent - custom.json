@@ -1,0 +1,38 @@
+{
+  "id": "8d582540-42f3-4c1a-af36-8e8cfa52a93b",
+  "parentId": "733c14a4-426a-4054-a80b-293fae49912c",
+  "rootParentId": "733c14a4-426a-4054-a80b-293fae49912c",
+  "name": "Default Welcome-1 Intent - custom",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcome-1Intent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcome-1Intent.DefaultWelcome-1Intent-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "I\u0027m fine,Thanks for asking!",
+            "fine,thank you.",
+            "Just great,Thanks.",
+            "feels good! thank you."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1529948301,
+  "fallbackIntent": false,
+  "events": []
+}

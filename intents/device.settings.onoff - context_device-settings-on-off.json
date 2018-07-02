@@ -1,0 +1,38 @@
+{
+  "id": "5e9bb155-e9b9-4c06-951a-e3989371887d",
+  "name": "device.settings.onoff - context:device-settings-on-off",
+  "auto": true,
+  "contexts": [
+    "device-switch-on-off"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "#device-switch-on-off.intent_action",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "9fd2ed2b-9185-46c4-9c82-0b10766d6d83",
+          "dataType": "@device-module",
+          "name": "module",
+          "value": "$module"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1496995050879,
+  "fallbackIntent": false,
+  "events": []
+}

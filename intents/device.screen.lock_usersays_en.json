@@ -1,0 +1,119 @@
+[
+  {
+    "id": "f64c46ad-cd7e-4556-b903-4435a74c8d44",
+    "data": [
+      {
+        "text": "turn ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " lock screen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "452f5417-f17c-48f2-9f87-d9136a19a3fa",
+    "data": [
+      {
+        "text": "take me to my lock screen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4ba1b63b-93fb-4bf4-ac78-90eb46c8560f",
+    "data": [
+      {
+        "text": "activate lock screen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "86253dcc-996f-4789-bf63-5769e471689a",
+    "data": [
+      {
+        "text": "open the screen lock",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9c0a9b1a-d9b3-49b9-8db4-2b8a2e0a169d",
+    "data": [
+      {
+        "text": " lock the screen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2ae6b7d7-c3bb-48ef-a53d-87747b7fb45e",
+    "data": [
+      {
+        "text": "set screen lock",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "05f1327b-ad8f-4b0c-ad04-387b6b541a74",
+    "data": [
+      {
+        "text": "lock the home screen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ce40015c-7dc9-4254-99b8-7fecfbd0b654",
+    "data": [
+      {
+        "text": "screen lock",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fe3237f5-94d1-42d0-874b-e954fe055499",
+    "data": [
+      {
+        "text": "can you lock my phone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
