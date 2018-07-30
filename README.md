@@ -26,9 +26,13 @@
 ## Key Features
 
  Alpa-Mine is an Artificial Inteligence chatbot built with DialogFlow(API.AI)..,and traind with machine learning algorithms using Tensorflow and keras..
+ 
  Alpha-Mine was traind with different models like seq-to-seq model,and memory network.
+ 
  All the intents and entities are build with Dialogflow(API.AI).
+ 
  There's different webhooks that was included in the current version of Alpha-Mine..such as web search webhook,but more webgooks will be added soon to let the user fully control his device using both voice and text instractions.
+ 
  Alpha-Mine is understand  english language only ..we didn't add any other language yet.
  
 ## How To Use
@@ -59,12 +63,12 @@ Alpha-Mine is also available an different platforms that include : Instegram,Tel
  
 ## Related
 
--[Mega-Number](https://github.com/Mohamed-94/Mega-Number) - Mega Number V.1.0 Desktop app.
+[Mega-Number](https://github.com/Mohamed-94/Mega-Number) - Mega Number V.1.0 Desktop app.
  
 
 ## You may also like...
 
--[Super Calculator](https://github.com/Mohamed-94/Super-Calculator_Cpp_CommandLine) - C++ CommandLine
+- [Super Calculator](https://github.com/Mohamed-94/Super-Calculator_Cpp_CommandLine) - C++ CommandLine
 - [Dll for SQL Connection](https://github.com/Mohamed-94/DLL-for-SQL-Connection) - A Dll libr applicationary for sql parsing.
 
 ## License
