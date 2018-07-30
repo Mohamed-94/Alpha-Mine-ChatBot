@@ -31,13 +31,13 @@
  
  All the intents and entities are build with Dialogflow(API.AI).
  
- There's different webhooks that was included in the current version of Alpha-Mine..such as web search webhook,but more webgooks will be added soon to let the user fully control his device using both voice and text instractions.
+ There's different webhooks that was included in the current version of Alpha-Mine..such as web search webhook,but more webhooks will be added soon to let the user fully control his device using both voice and text instractions.
  
  Alpha-Mine is understand  english language only ..we didn't add any other language yet.
  
 ## How To Use
 
-You can now chat with Alpha-Mine online her : [Alpa-Mine-live](https://bot.dialogflow.com/bef4f834-a03c-4161-adb3-b6c8426fe246)
+You can now chat with Alpha-Mine online : [Alpa-Mine-live](https://bot.dialogflow.com/bef4f834-a03c-4161-adb3-b6c8426fe246)
 
 *To clone and edit this application, you'll need [Git](https://git-scm.com) and [Tensorflow](https://www.tensorflow.org)
 
@@ -63,7 +63,7 @@ Alpha-Mine is also available an different platforms that include : Instegram,Tel
  
 ## Related
 
-[Mega-Number](https://github.com/Mohamed-94/Mega-Number) - Mega Number V.1.0 Desktop app.
+- [Mega-Number](https://github.com/Mohamed-94/Mega-Number) - Mega Number V.1.0 Desktop app.
  
 
 ## You may also like...
