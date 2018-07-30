@@ -25,7 +25,7 @@
 
 ## Key Features
 
- Alpa-Mine is an Artificial Inteligence chatbot built with DialogFlow(API.AI)..,and traind with machine learning algorithms using Tensorflow and keras..
+ Alpa-Mine is an Artificial Intelligence chatbot built with DialogFlow(API.AI)..,and traind with machine learning algorithms using Tensorflow and keras..
  
  Alpha-Mine was traind with different models like seq-to-seq model,and memory network.
  
@@ -57,7 +57,7 @@ Note: If you're using Linux Bash for Windows, [see this guide](https://www.howto
 
 ## More..
 
-Alpha-Mine is also available an different platforms that include : Instegram,Telgram,Slack,and Facebook.
+Alpha-Mine is also available on different platforms that include : Instegram,Telgram,Slack,and Facebook.
 
 *Note: Alpha-Mine will be available to public on Facebook messanger as soon as The Facebook team finished its quality review.
  
