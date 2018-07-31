@@ -31,7 +31,7 @@
  
  All the intents and entities are build with Dialogflow(API.AI).
  
- There's different webhooks that was included in the current version of Alpha-Mine..such as web search webhook,but more webhooks will be added soon to let the user fully control his device using both voice and text instractions.
+ There's different webhooks that was included in the current version of Alpha-Mine..such as web search webhook,but more webhooks will be added soon to let the user fully control his device using both voice and text instructions.
  
  Alpha-Mine is understand  english language only ..we didn't add any other language yet.
  
