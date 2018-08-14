@@ -69,7 +69,7 @@ Alpha-Mine is also available on different platforms that include : Instegram,Tel
 ## You may also like...
 
 - [Super Calculator](https://github.com/Mohamed-94/Super-Calculator_Cpp_CommandLine) - C++ CommandLine
-- [Dll for SQL Connection](https://github.com/Mohamed-94/DLL-for-SQL-Connection) - A Dll libr applicationary for sql parsing.
+- [Dll for SQL Connection](https://github.com/Mohamed-94/DLL-for-SQL-Connection) - A Dll library for sql parsing.
 
 ## License
 
