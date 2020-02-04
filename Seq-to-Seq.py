@@ -212,6 +212,10 @@ class Seq2SeqModel(object):
     for l in xrange(decoder_size):
       input_feed[self.decoder_inputs[l].name] = decoder_inputs[l]
       input_feed[self.target_weights[l].name] = target_weights[l]
+       
+    #decoder and decoder variables..
+    #deco = input_feed[self.decoder_inputs[l].name] = decoder_inputs[l]
+    #enco = input_feed[self.encoder_inputs[l].name] = encoder_inputs[l]
 
     # Since our targets are decoder inputs shifted by one, we need one more.
     last_target = self.decoder_inputs[decoder_size].name
