@@ -19,7 +19,7 @@
 
 <div align="center">
 
- ![screen-recording-7-30-2018-1-17-38-pm-](https://user-images.githubusercontent.com/38832580/43400163-e0da9ac2-9404-11e8-9c95-16500382c9c2.gif)
+ ![jiff](https://user-images.githubusercontent.com/38832580/76562234-d9cd2f00-649c-11ea-8667-eb28f8a5c7c7.gif)
 
 </div>
 
