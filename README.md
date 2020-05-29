@@ -2,9 +2,6 @@
 <h4 align="center">
   <br>
  
-   ![we123](https://user-images.githubusercontent.com/38832580/43400622-19058672-9406-11e8-8c78-56886ced17a0.png)
-  
-  <br>
   Alpa-Mine V.1.0
   <br>
 </h4>
